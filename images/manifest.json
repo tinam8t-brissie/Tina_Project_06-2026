@@ -1303,6 +1303,168 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_Wagner_1930"
+                ]
+            },
+            "height": 7299,
+            "width": 5150,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 161,
+                                                "height": 229
+                                            },
+                                            {
+                                                "width": 322,
+                                                "height": 457
+                                            },
+                                            {
+                                                "width": 644,
+                                                "height": 913
+                                            },
+                                            {
+                                                "width": 1288,
+                                                "height": 1825
+                                            },
+                                            {
+                                                "width": 2575,
+                                                "height": 3650
+                                            },
+                                            {
+                                                "width": 5150,
+                                                "height": 7299
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 5150,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 7299
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_wholeSchool_1921"
+                ]
+            },
+            "height": 928,
+            "width": 1366,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 43,
+                                                "height": 29
+                                            },
+                                            {
+                                                "width": 86,
+                                                "height": 58
+                                            },
+                                            {
+                                                "width": 171,
+                                                "height": 116
+                                            },
+                                            {
+                                                "width": 342,
+                                                "height": 232
+                                            },
+                                            {
+                                                "width": 683,
+                                                "height": 464
+                                            },
+                                            {
+                                                "width": 1366,
+                                                "height": 928
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1366,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 928
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

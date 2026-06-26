@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 161,
+    "height" : 229
+  }, {
+    "width" : 322,
+    "height" : 457
+  }, {
+    "width" : 644,
+    "height" : 913
+  }, {
+    "width" : 1288,
+    "height" : 1825
+  }, {
+    "width" : 2575,
+    "height" : 3650
+  }, {
+    "width" : 5150,
+    "height" : 7299
+  } ],
+  "profile" : "level0",
+  "width" : 5150,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 7299
+}
