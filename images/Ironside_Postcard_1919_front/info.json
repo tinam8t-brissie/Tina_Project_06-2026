@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 219,
+    "height" : 142
+  }, {
+    "width" : 437,
+    "height" : 284
+  }, {
+    "width" : 874,
+    "height" : 568
+  }, {
+    "width" : 1747,
+    "height" : 1136
+  }, {
+    "width" : 3493,
+    "height" : 2272
+  }, {
+    "width" : 6985,
+    "height" : 4544
+  } ],
+  "profile" : "level0",
+  "width" : 6985,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_front",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4544
+}
