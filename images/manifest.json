@@ -493,6 +493,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_Class_34_1932"
+                ]
+            },
+            "height": 2004,
+            "width": 3216,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 101,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 201,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 402,
+                                                "height": 251
+                                            },
+                                            {
+                                                "width": 804,
+                                                "height": 501
+                                            },
+                                            {
+                                                "width": 1608,
+                                                "height": 1002
+                                            },
+                                            {
+                                                "width": 3216,
+                                                "height": 2004
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3216,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2004
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
