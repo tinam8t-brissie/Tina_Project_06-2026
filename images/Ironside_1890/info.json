@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 56,
+    "height" : 41
+  }, {
+    "width" : 111,
+    "height" : 81
+  }, {
+    "width" : 222,
+    "height" : 162
+  }, {
+    "width" : 444,
+    "height" : 324
+  }, {
+    "width" : 887,
+    "height" : 648
+  }, {
+    "width" : 1774,
+    "height" : 1295
+  } ],
+  "profile" : "level0",
+  "width" : 1774,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1890",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1295
+}
