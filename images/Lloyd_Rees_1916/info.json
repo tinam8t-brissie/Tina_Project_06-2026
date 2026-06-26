@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 32
+  }, {
+    "width" : 42,
+    "height" : 64
+  }, {
+    "width" : 83,
+    "height" : 128
+  }, {
+    "width" : 166,
+    "height" : 256
+  }, {
+    "width" : 332,
+    "height" : 512
+  }, {
+    "width" : 663,
+    "height" : 1024
+  } ],
+  "profile" : "level0",
+  "width" : 663,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1024
+}
