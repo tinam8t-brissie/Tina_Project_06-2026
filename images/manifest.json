@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_7755"
+                ]
+            },
+            "height": 4032,
+            "width": 3024,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            },
+                                            {
+                                                "width": 3024,
+                                                "height": 4032
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3024,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4032
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1890/canvas/",
             "type": "Canvas",
             "label": {
@@ -657,26 +738,26 @@
             ]
         },
         {
-            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/canvas/",
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "IMG_7755"
+                    "Ironside_HawkenDrive_1925"
                 ]
             },
-            "height": 4032,
-            "width": 3024,
+            "height": 3160,
+            "width": 4726,
             "items": [
                 {
-                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/annotation/AnnoPage",
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/annotation/",
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/full/max/0/default.jpg",
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -697,41 +778,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 95,
-                                                "height": 126
+                                                "width": 148,
+                                                "height": 99
                                             },
                                             {
-                                                "width": 189,
-                                                "height": 252
+                                                "width": 296,
+                                                "height": 198
                                             },
                                             {
-                                                "width": 378,
-                                                "height": 504
+                                                "width": 591,
+                                                "height": 395
                                             },
                                             {
-                                                "width": 756,
-                                                "height": 1008
+                                                "width": 1182,
+                                                "height": 790
                                             },
                                             {
-                                                "width": 1512,
-                                                "height": 2016
+                                                "width": 2363,
+                                                "height": 1580
                                             },
                                             {
-                                                "width": 3024,
-                                                "height": 4032
+                                                "width": 4726,
+                                                "height": 3160
                                             }
                                         ],
                                         "profile": "level0",
-                                        "width": 3024,
-                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755",
+                                        "width": 4726,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 4032
+                                        "height": 3160
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/canvas/"
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/canvas/"
                         }
                     ]
                 }

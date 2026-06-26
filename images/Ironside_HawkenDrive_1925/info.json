@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 148,
+    "height" : 99
+  }, {
+    "width" : 296,
+    "height" : 198
+  }, {
+    "width" : 591,
+    "height" : 395
+  }, {
+    "width" : 1182,
+    "height" : 790
+  }, {
+    "width" : 2363,
+    "height" : 1580
+  }, {
+    "width" : 4726,
+    "height" : 3160
+  } ],
+  "profile" : "level0",
+  "width" : 4726,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3160
+}
