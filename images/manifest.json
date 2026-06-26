@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in tinam8t-brissie/Tina_Project_06-2026 project"
+        ]
+    },
+    "items": []
+}
