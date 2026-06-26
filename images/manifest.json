@@ -412,6 +412,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_ABlock_ArchPlans_1935"
+                ]
+            },
+            "height": 7311,
+            "width": 9540,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 299,
+                                                "height": 229
+                                            },
+                                            {
+                                                "width": 597,
+                                                "height": 457
+                                            },
+                                            {
+                                                "width": 1193,
+                                                "height": 914
+                                            },
+                                            {
+                                                "width": 2385,
+                                                "height": 1828
+                                            },
+                                            {
+                                                "width": 4770,
+                                                "height": 3656
+                                            },
+                                            {
+                                                "width": 9540,
+                                                "height": 7311
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 9540,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 7311
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
