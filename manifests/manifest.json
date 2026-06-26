@@ -1,0 +1,1445 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/manifests/manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Tina_Project" ]
+  },
+  "summary" : {
+    "en" : [ "This is a historical project for the Ironside State School 150th anniversary celebration in 2020." ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/amxp3xa6otr-mquqghb7",
+    "type" : "Canvas",
+    "height" : 928,
+    "width" : 1366,
+    "label" : {
+      "en" : [ "School_1921" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Author" ]
+      },
+      "value" : {
+        "en" : [ "unknown" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/full/342,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 232,
+      "width" : 342
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/amxp3xa6otr-mquqghb7/annotation-page/j9gigckqq4g-mquqghb8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/excsfyuwj16-mquqghb5",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/amxp3xa6otr-mquqghb7",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 928,
+          "width" : 1366,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 43,
+              "height" : 29
+            }, {
+              "width" : 86,
+              "height" : 58
+            }, {
+              "width" : 171,
+              "height" : 116
+            }, {
+              "width" : 342,
+              "height" : 232
+            }, {
+              "width" : 683,
+              "height" : 464
+            }, {
+              "width" : 1366,
+              "height" : 928
+            } ],
+            "profile" : "level0",
+            "width" : 1366,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 928
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/48shdwn30gp-mquqjfmd",
+    "type" : "Canvas",
+    "height" : 7299,
+    "width" : 5150,
+    "label" : {
+      "en" : [ "Wagner_1930" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Author" ]
+      },
+      "value" : {
+        "en" : [ "unknown" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/full/322,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 457,
+      "width" : 322
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/48shdwn30gp-mquqjfmd/annotation-page/ezqrgm25qr-mquqjfmd",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/r6eskfligbs-mquqjfmc",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/48shdwn30gp-mquqjfmd",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 7299,
+          "width" : 5150,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 161,
+              "height" : 229
+            }, {
+              "width" : 322,
+              "height" : 457
+            }, {
+              "width" : 644,
+              "height" : 913
+            }, {
+              "width" : 1288,
+              "height" : 1825
+            }, {
+              "width" : 2575,
+              "height" : 3650
+            }, {
+              "width" : 5150,
+              "height" : 7299
+            } ],
+            "profile" : "level0",
+            "width" : 5150,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 7299
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/7ti5j3t7jhd-mquqkey3",
+    "type" : "Canvas",
+    "height" : 1024,
+    "width" : 663,
+    "label" : {
+      "en" : [ "Reese_1916" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/full/332,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 512,
+      "width" : 332
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/7ti5j3t7jhd-mquqkey3/annotation-page/ldvxngy0kn-mquqkey3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/1ns33532sb9-mquqkey2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/7ti5j3t7jhd-mquqkey3",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1024,
+          "width" : 663,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 21,
+              "height" : 32
+            }, {
+              "width" : 42,
+              "height" : 64
+            }, {
+              "width" : 83,
+              "height" : 128
+            }, {
+              "width" : 166,
+              "height" : 256
+            }, {
+              "width" : 332,
+              "height" : 512
+            }, {
+              "width" : 663,
+              "height" : 1024
+            } ],
+            "profile" : "level0",
+            "width" : 663,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5",
+    "type" : "Canvas",
+    "height" : 4544,
+    "width" : 6985,
+    "label" : {
+      "en" : [ "School Postcard 1919" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_front/full/437,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 284,
+      "width" : 437
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5/annotation-page/vnw30q169gl-mquqkxs5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/ckd4buggmjp-mquqkxs4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_front/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4544,
+          "width" : 6985,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 219,
+              "height" : 142
+            }, {
+              "width" : 437,
+              "height" : 284
+            }, {
+              "width" : 874,
+              "height" : 568
+            }, {
+              "width" : 1747,
+              "height" : 1136
+            }, {
+              "width" : 3493,
+              "height" : 2272
+            }, {
+              "width" : 6985,
+              "height" : 4544
+            } ],
+            "profile" : "level0",
+            "width" : 6985,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_front",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4544
+          } ]
+        }
+      } ]
+    } ],
+    "navPlace" : {
+      "type" : "FeatureCollection",
+      "features" : [ {
+        "type" : "Feature",
+        "properties" : { },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 152.995911, -27.500536 ]
+        }
+      } ]
+    }
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia",
+    "type" : "Canvas",
+    "height" : 4553,
+    "width" : 7033,
+    "label" : {
+      "en" : [ "School Postcard 1919 back" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/full/440,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 285,
+      "width" : 440
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia/annotation-page/5gz63xuapfx-mquqlgia",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/caqdeaal5vg-mquqlgi9",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4553,
+          "width" : 7033,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 220,
+              "height" : 143
+            }, {
+              "width" : 440,
+              "height" : 285
+            }, {
+              "width" : 880,
+              "height" : 570
+            }, {
+              "width" : 1759,
+              "height" : 1139
+            }, {
+              "width" : 3517,
+              "height" : 2277
+            }, {
+              "width" : 7033,
+              "height" : 4553
+            } ],
+            "profile" : "level0",
+            "width" : 7033,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4553
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/smr43bskgnf-mquqlz8e",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "Oldest Alumni in 2020" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Oldest_Alumni1/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/smr43bskgnf-mquqlz8e/annotation-page/934veb4q6l-mquqlz8e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/ppo5tanme1-mquqlz8e",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/smr43bskgnf-mquqlz8e",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Oldest_Alumni1/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Oldest_Alumni1",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/5w93cd9rj64-mquqmgmq",
+    "type" : "Canvas",
+    "height" : 1822,
+    "width" : 1238,
+    "label" : {
+      "en" : [ "Lloyd Reese 1986" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/full/310,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 456,
+      "width" : 310
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/5w93cd9rj64-mquqmgmq/annotation-page/qa9nrvkjiv-mquqmgmq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/742m5om4a0p-mquqmgmp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/5w93cd9rj64-mquqmgmq",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1822,
+          "width" : 1238,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 39,
+              "height" : 57
+            }, {
+              "width" : 78,
+              "height" : 114
+            }, {
+              "width" : 155,
+              "height" : 228
+            }, {
+              "width" : 310,
+              "height" : 456
+            }, {
+              "width" : 619,
+              "height" : 911
+            }, {
+              "width" : 1238,
+              "height" : 1822
+            } ],
+            "profile" : "level0",
+            "width" : 1238,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1822
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/9zh2eht3khh-mquqmy2t",
+    "type" : "Canvas",
+    "height" : 3160,
+    "width" : 4726,
+    "label" : {
+      "en" : [ "Hawken Drive" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/full/296,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 198,
+      "width" : 296
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/9zh2eht3khh-mquqmy2t/annotation-page/4a50ea7jonk-mquqmy2t",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/an1ff6mgb-mquqmy2s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/9zh2eht3khh-mquqmy2t",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3160,
+          "width" : 4726,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 148,
+              "height" : 99
+            }, {
+              "width" : 296,
+              "height" : 198
+            }, {
+              "width" : 591,
+              "height" : 395
+            }, {
+              "width" : 1182,
+              "height" : 790
+            }, {
+              "width" : 2363,
+              "height" : 1580
+            }, {
+              "width" : 4726,
+              "height" : 3160
+            } ],
+            "profile" : "level0",
+            "width" : 4726,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_HawkenDrive_1925",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3160
+          } ]
+        }
+      } ]
+    } ],
+    "navPlace" : {
+      "type" : "FeatureCollection",
+      "features" : [ {
+        "type" : "Feature",
+        "properties" : { },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 152.997268, -27.502421 ]
+        }
+      } ]
+    }
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/k0qoeoxtgp-mquqng8d",
+    "type" : "Canvas",
+    "height" : 4049,
+    "width" : 6408,
+    "label" : {
+      "en" : [ "Grade 5, 6 and 7 in 1932" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_567_1932/full/401,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 254,
+      "width" : 401
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/k0qoeoxtgp-mquqng8d/annotation-page/jvg7jsjdk4-mquqng8d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/ai3b4t3g1qw-mquqng8d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/k0qoeoxtgp-mquqng8d",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_567_1932/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4049,
+          "width" : 6408,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 201,
+              "height" : 127
+            }, {
+              "width" : 401,
+              "height" : 254
+            }, {
+              "width" : 801,
+              "height" : 507
+            }, {
+              "width" : 1602,
+              "height" : 1013
+            }, {
+              "width" : 3204,
+              "height" : 2025
+            }, {
+              "width" : 6408,
+              "height" : 4049
+            } ],
+            "profile" : "level0",
+            "width" : 6408,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_567_1932",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4049
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/6itvtwpicj-mquqnu2s",
+    "type" : "Canvas",
+    "height" : 7311,
+    "width" : 9540,
+    "label" : {
+      "en" : [ "A Block Architectural Plan 1935" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/full/299,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 229,
+      "width" : 299
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/6itvtwpicj-mquqnu2s/annotation-page/cg8yzfzbx9m-mquqnu2s",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/bnrb2frkic8-mquqnu2s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/6itvtwpicj-mquqnu2s",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 7311,
+          "width" : 9540,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 299,
+              "height" : 229
+            }, {
+              "width" : 597,
+              "height" : 457
+            }, {
+              "width" : 1193,
+              "height" : 914
+            }, {
+              "width" : 2385,
+              "height" : 1828
+            }, {
+              "width" : 4770,
+              "height" : 3656
+            }, {
+              "width" : 9540,
+              "height" : 7311
+            } ],
+            "profile" : "level0",
+            "width" : 9540,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 7311
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys",
+    "type" : "Canvas",
+    "height" : 10200,
+    "width" : 13566,
+    "label" : {
+      "en" : [ "Whole school 1906" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/full/424,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 319,
+      "width" : 424
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotation-page/y80u4fx7udg-mquqpeys",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/3sb77sco2a4-mquqpeyr",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 10200,
+          "width" : 13566,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 424,
+              "height" : 319
+            }, {
+              "width" : 848,
+              "height" : 638
+            }, {
+              "width" : 1696,
+              "height" : 1275
+            }, {
+              "width" : 3392,
+              "height" : 2550
+            }, {
+              "width" : 6783,
+              "height" : 5100
+            }, {
+              "width" : 13566,
+              "height" : 10200
+            } ],
+            "profile" : "level0",
+            "width" : 13566,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 10200
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ebzzbomth1-mquqq18z",
+    "type" : "Canvas",
+    "height" : 5136,
+    "width" : 6240,
+    "label" : {
+      "en" : [ "A Block 1936" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_1930/full/390,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 321,
+      "width" : 390
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ebzzbomth1-mquqq18z/annotation-page/l6zh7133sfq-mquqq18z",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/6wpibnl2lz-mquqq18y",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ebzzbomth1-mquqq18z",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_1930/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5136,
+          "width" : 6240,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 195,
+              "height" : 161
+            }, {
+              "width" : 390,
+              "height" : 321
+            }, {
+              "width" : 780,
+              "height" : 642
+            }, {
+              "width" : 1560,
+              "height" : 1284
+            }, {
+              "width" : 3120,
+              "height" : 2568
+            }, {
+              "width" : 6240,
+              "height" : 5136
+            } ],
+            "profile" : "level0",
+            "width" : 6240,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_1930",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5136
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/hjmz3l0lik-mquqqfsu",
+    "type" : "Canvas",
+    "height" : 1680,
+    "width" : 2993,
+    "label" : {
+      "en" : [ "Ironside SS 2020" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Author" ]
+      },
+      "value" : {
+        "en" : [ "Peter Walker" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_2020/full/375,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 210,
+      "width" : 375
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/hjmz3l0lik-mquqqfsu/annotation-page/qqumocnr728-mquqqfsu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/47i5ttjek1k-mquqqfsu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/hjmz3l0lik-mquqqfsu",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_2020/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1680,
+          "width" : 2993,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 94,
+              "height" : 53
+            }, {
+              "width" : 188,
+              "height" : 105
+            }, {
+              "width" : 375,
+              "height" : 210
+            }, {
+              "width" : 749,
+              "height" : 420
+            }, {
+              "width" : 1497,
+              "height" : 840
+            }, {
+              "width" : 2993,
+              "height" : 1680
+            } ],
+            "profile" : "level0",
+            "width" : 2993,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_2020",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1680
+          } ]
+        }
+      } ]
+    } ],
+    "navPlace" : {
+      "type" : "FeatureCollection",
+      "features" : [ {
+        "type" : "Feature",
+        "properties" : { },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 152.996292, -27.500499 ]
+        }
+      } ]
+    }
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/c6q6xh2n8q-mquqqxyh",
+    "type" : "Canvas",
+    "height" : 1452,
+    "width" : 1500,
+    "label" : {
+      "en" : [ "Ironside SS 1970" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1970/full/375,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 363,
+      "width" : 375
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/c6q6xh2n8q-mquqqxyh/annotation-page/vcer0jvgmhc-mquqqxyh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/bzd0plws8ym-mquqqxyh",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/c6q6xh2n8q-mquqqxyh",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1970/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1452,
+          "width" : 1500,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 47,
+              "height" : 46
+            }, {
+              "width" : 94,
+              "height" : 91
+            }, {
+              "width" : 188,
+              "height" : 182
+            }, {
+              "width" : 375,
+              "height" : 363
+            }, {
+              "width" : 750,
+              "height" : 726
+            }, {
+              "width" : 1500,
+              "height" : 1452
+            } ],
+            "profile" : "level0",
+            "width" : 1500,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1970",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1452
+          } ]
+        }
+      } ]
+    } ],
+    "navPlace" : {
+      "type" : "FeatureCollection",
+      "features" : [ {
+        "type" : "Feature",
+        "properties" : { },
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [ 152.996179, -27.500593 ]
+        }
+      } ]
+    }
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jtyxus975k-mquqreju",
+    "type" : "Canvas",
+    "height" : 4368,
+    "width" : 6729,
+    "label" : {
+      "en" : [ "School building 1928" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1928/full/421,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 273,
+      "width" : 421
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jtyxus975k-mquqreju/annotation-page/6aoumtd71ge-mquqreju",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/3rfafnpovzr-mquqrejt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jtyxus975k-mquqreju",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1928/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4368,
+          "width" : 6729,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 211,
+              "height" : 137
+            }, {
+              "width" : 421,
+              "height" : 273
+            }, {
+              "width" : 842,
+              "height" : 546
+            }, {
+              "width" : 1683,
+              "height" : 1092
+            }, {
+              "width" : 3365,
+              "height" : 2184
+            }, {
+              "width" : 6729,
+              "height" : 4368
+            } ],
+            "profile" : "level0",
+            "width" : 6729,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1928",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4368
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg",
+    "type" : "Canvas",
+    "height" : 1295,
+    "width" : 1774,
+    "label" : {
+      "en" : [ "School 1890" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1890/full/444,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 324,
+      "width" : 444
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotation-page/l8k2a73c02-mquqs4mg",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/cab7iacxghd-mquqs4mg",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1890/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1295,
+          "width" : 1774,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 56,
+              "height" : 41
+            }, {
+              "width" : 111,
+              "height" : 81
+            }, {
+              "width" : 222,
+              "height" : 162
+            }, {
+              "width" : 444,
+              "height" : 324
+            }, {
+              "width" : 887,
+              "height" : 648
+            }, {
+              "width" : 1774,
+              "height" : 1295
+            } ],
+            "profile" : "level0",
+            "width" : 1774,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1890",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1295
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jbrvziqj7ue-mquqsmde",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "Lloyd Reese Sketch of school 1968 with great niece" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jbrvziqj7ue-mquqsmde/annotation-page/cwznpadi0rl-mquqsmde",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/310vk5tjerq-mquqsmdd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jbrvziqj7ue-mquqsmde",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/IMG_7755",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/qoittvraqn-mquqw0hx",
+    "type" : "Canvas",
+    "height" : 818,
+    "width" : 1044,
+    "label" : {
+      "en" : [ "Trove 1871" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/full/522,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 409,
+      "width" : 522
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/qoittvraqn-mquqw0hx/annotation-page/ubehxmwrslj-mquqw0hx",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/ge3iqxjtm2l-mquqw0hw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/qoittvraqn-mquqw0hx",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 818,
+          "width" : 1044,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 33,
+              "height" : 26
+            }, {
+              "width" : 66,
+              "height" : 52
+            }, {
+              "width" : 131,
+              "height" : 103
+            }, {
+              "width" : 261,
+              "height" : 205
+            }, {
+              "width" : 522,
+              "height" : 409
+            }, {
+              "width" : 1044,
+              "height" : 818
+            } ],
+            "profile" : "level0",
+            "width" : 1044,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 818
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/t95onizaki-mquqxg63",
+    "type" : "Canvas",
+    "height" : 2004,
+    "width" : 3216,
+    "label" : {
+      "en" : [ "Grade 3 and 4 in 1932" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/full/402,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 251,
+      "width" : 402
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/t95onizaki-mquqxg63/annotation-page/q36tzh3nsv-mquqxg63",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/ce5fee322zk-mquqxg62",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/t95onizaki-mquqxg63",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2004,
+          "width" : 3216,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 101,
+              "height" : 63
+            }, {
+              "width" : 201,
+              "height" : 126
+            }, {
+              "width" : 402,
+              "height" : 251
+            }, {
+              "width" : 804,
+              "height" : 501
+            }, {
+              "width" : 1608,
+              "height" : 1002
+            }, {
+              "width" : 3216,
+              "height" : 2004
+            } ],
+            "profile" : "level0",
+            "width" : 3216,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Class_34_1932",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2004
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/vgf1zwp0jen-mqur1gad",
+    "type" : "Canvas",
+    "height" : 7311,
+    "width" : 9540,
+    "label" : {
+      "en" : [ "A Block Arch Plan 1935" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/full/299,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 229,
+      "width" : 299
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/vgf1zwp0jen-mqur1gad/annotation-page/4pr4l1v72o-mqur1gad",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/x1k94p8h4zn-mqur1gac",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/vgf1zwp0jen-mqur1gad",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 7311,
+          "width" : 9540,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 299,
+              "height" : 229
+            }, {
+              "width" : 597,
+              "height" : 457
+            }, {
+              "width" : 1193,
+              "height" : 914
+            }, {
+              "width" : 2385,
+              "height" : 1828
+            }, {
+              "width" : 4770,
+              "height" : 3656
+            }, {
+              "width" : 9540,
+              "height" : 7311
+            } ],
+            "profile" : "level0",
+            "width" : 9540,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ABlock_ArchPlans_1935",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 7311
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/w1j0otd7m1s-mqut0uwq",
+    "type" : "Canvas",
+    "height" : 1734,
+    "width" : 3644,
+    "label" : {
+      "en" : [ "ISS old and new school location" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Location_ISS_1935/full/456,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 217,
+      "width" : 456
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/w1j0otd7m1s-mqut0uwq/annotation-page/bym18wkoko9-mqut0uwq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/annotation/ests7wg8j6-mqut0uwp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/w1j0otd7m1s-mqut0uwq",
+        "body" : {
+          "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Location_ISS_1935/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1734,
+          "width" : 3644,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 114,
+              "height" : 55
+            }, {
+              "width" : 228,
+              "height" : 109
+            }, {
+              "width" : 456,
+              "height" : 217
+            }, {
+              "width" : 911,
+              "height" : 434
+            }, {
+              "width" : 1822,
+              "height" : 867
+            }, {
+              "width" : 3644,
+              "height" : 1734
+            } ],
+            "profile" : "level0",
+            "width" : 3644,
+            "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Location_ISS_1935",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1734
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
