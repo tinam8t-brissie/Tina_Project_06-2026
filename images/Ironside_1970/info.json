@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 47,
+    "height" : 46
+  }, {
+    "width" : 94,
+    "height" : 91
+  }, {
+    "width" : 188,
+    "height" : 182
+  }, {
+    "width" : 375,
+    "height" : 363
+  }, {
+    "width" : 750,
+    "height" : 726
+  }, {
+    "width" : 1500,
+    "height" : 1452
+  } ],
+  "profile" : "level0",
+  "width" : 1500,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_1970",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1452
+}
