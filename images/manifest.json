@@ -898,6 +898,168 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_ClassImage_1906"
+                ]
+            },
+            "height": 10200,
+            "width": 13566,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 424,
+                                                "height": 319
+                                            },
+                                            {
+                                                "width": 848,
+                                                "height": 638
+                                            },
+                                            {
+                                                "width": 1696,
+                                                "height": 1275
+                                            },
+                                            {
+                                                "width": 3392,
+                                                "height": 2550
+                                            },
+                                            {
+                                                "width": 6783,
+                                                "height": 5100
+                                            },
+                                            {
+                                                "width": 13566,
+                                                "height": 10200
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 13566,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 10200
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_Library_1986"
+                ]
+            },
+            "height": 1822,
+            "width": 1238,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 57
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 228
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 456
+                                            },
+                                            {
+                                                "width": 619,
+                                                "height": 911
+                                            },
+                                            {
+                                                "width": 1238,
+                                                "height": 1822
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1238,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1822
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

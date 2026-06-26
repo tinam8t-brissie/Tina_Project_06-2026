@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 39,
+    "height" : 57
+  }, {
+    "width" : 78,
+    "height" : 114
+  }, {
+    "width" : 155,
+    "height" : 228
+  }, {
+    "width" : 310,
+    "height" : 456
+  }, {
+    "width" : 619,
+    "height" : 911
+  }, {
+    "width" : 1238,
+    "height" : 1822
+  } ],
+  "profile" : "level0",
+  "width" : 1238,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Library_1986",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1822
+}

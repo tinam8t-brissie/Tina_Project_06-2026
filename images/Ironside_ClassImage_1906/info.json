@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 424,
+    "height" : 319
+  }, {
+    "width" : 848,
+    "height" : 638
+  }, {
+    "width" : 1696,
+    "height" : 1275
+  }, {
+    "width" : 3392,
+    "height" : 2550
+  }, {
+    "width" : 6783,
+    "height" : 5100
+  }, {
+    "width" : 13566,
+    "height" : 10200
+  } ],
+  "profile" : "level0",
+  "width" : 13566,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_ClassImage_1906",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 10200
+}
