@@ -1141,6 +1141,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ironside_Postcard_1919_back"
+                ]
+            },
+            "height": 4553,
+            "width": 7033,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 220,
+                                                "height": 143
+                                            },
+                                            {
+                                                "width": 440,
+                                                "height": 285
+                                            },
+                                            {
+                                                "width": 880,
+                                                "height": 570
+                                            },
+                                            {
+                                                "width": 1759,
+                                                "height": 1139
+                                            },
+                                            {
+                                                "width": 3517,
+                                                "height": 2277
+                                            },
+                                            {
+                                                "width": 7033,
+                                                "height": 4553
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 7033,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4553
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Postcard_1919_back/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
