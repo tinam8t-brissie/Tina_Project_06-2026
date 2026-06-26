@@ -1224,87 +1224,6 @@
             ]
         },
         {
-            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "Lloyd_Rees_1916"
-                ]
-            },
-            "height": 1024,
-            "width": 663,
-            "items": [
-                {
-                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/full/max/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 21,
-                                                "height": 32
-                                            },
-                                            {
-                                                "width": 42,
-                                                "height": 64
-                                            },
-                                            {
-                                                "width": 83,
-                                                "height": 128
-                                            },
-                                            {
-                                                "width": 166,
-                                                "height": 256
-                                            },
-                                            {
-                                                "width": 332,
-                                                "height": 512
-                                            },
-                                            {
-                                                "width": 663,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "profile": "level0",
-                                        "width": 663,
-                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916",
-                                        "type": "ImageService3",
-                                        "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 1024
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_Wagner_1930/canvas/",
             "type": "Canvas",
             "label": {
@@ -1461,6 +1380,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Ironside_wholeSchool_1921/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Lloyd_Rees_1916"
+                ]
+            },
+            "height": 1024,
+            "width": 663,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 21,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 42,
+                                                "height": 64
+                                            },
+                                            {
+                                                "width": 83,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 166,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 332,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 663,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 663,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1024
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Lloyd_Rees_1916/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Trove_Indooroopilly_1871"
+                ]
+            },
+            "height": 818,
+            "width": 1044,
+            "items": [
+                {
+                    "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 33,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 66,
+                                                "height": 52
+                                            },
+                                            {
+                                                "width": 131,
+                                                "height": 103
+                                            },
+                                            {
+                                                "width": 261,
+                                                "height": 205
+                                            },
+                                            {
+                                                "width": 522,
+                                                "height": 409
+                                            },
+                                            {
+                                                "width": 1044,
+                                                "height": 818
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1044,
+                                        "id": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 818
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871/canvas/"
                         }
                     ]
                 }

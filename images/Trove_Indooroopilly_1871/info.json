@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 33,
+    "height" : 26
+  }, {
+    "width" : 66,
+    "height" : 52
+  }, {
+    "width" : 131,
+    "height" : 103
+  }, {
+    "width" : 261,
+    "height" : 205
+  }, {
+    "width" : 522,
+    "height" : 409
+  }, {
+    "width" : 1044,
+    "height" : 818
+  } ],
+  "profile" : "level0",
+  "width" : 1044,
+  "id" : "https://tinam8t-brissie.github.io/Tina_Project_06-2026/images/Trove_Indooroopilly_1871",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 818
+}
